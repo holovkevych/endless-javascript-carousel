@@ -1,0 +1,11 @@
+{
+  "name": "script.js",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    		"start": "node static-file-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
